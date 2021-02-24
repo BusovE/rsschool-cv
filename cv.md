@@ -18,3 +18,15 @@ My goal is to gain experience in the development of various applications in a te
 + Git (basic, in the process of studying);
 + Webpack 4 (basic, in the process of studying);
 + Soft: Visual Studio Code, Figma & Photoshop.
+
+### Code examples:
+On this link you will see my code in future projects [Link to see my code](https://github.com/BusovE)
+
+### Experience:
+This item will be completed as you progress of the course RS School.
+
+### Education:
+2006-2011 - Belarusian National Technical University, Mechanical engineering faculty, engineer.
+
+### English:
+A2.
